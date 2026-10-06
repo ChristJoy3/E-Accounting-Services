@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- The "E" emblem from the E Accounting Services logo, redrawn so it stays crisp at favicon sizes. -->
+  <defs>
+    <radialGradient id="g" cx="38%" cy="32%" r="70%">
+      <stop offset="0" stop-color="#C4CB7E"/>
+      <stop offset=".55" stop-color="#8D954A"/>
+      <stop offset="1" stop-color="#4F5527"/>
+    </radialGradient>
+  </defs>
+  <circle cx="32" cy="32" r="30" fill="url(#g)"/>
+  <circle cx="32" cy="32" r="29" fill="none" stroke="#3B4020" stroke-opacity=".35" stroke-width="2"/>
+  <g fill="none" stroke="#fff" stroke-linecap="round">
+    <path d="M43 18.6 A17 17 0 1 0 43 45.4" stroke-width="7.5" stroke-linecap="butt"/>
+    <path d="M19 32 H37" stroke-width="5"/>
+    <path d="M44.6 13 V23.5 M44.6 40.5 V51" stroke-width="3.6" stroke-linecap="butt"/>
+  </g>
+</svg>
